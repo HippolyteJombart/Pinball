@@ -1,0 +1,10 @@
+Note unity
+pour faire de la lumière bizarre
+sur un material emission intensite
+
+ce qu'on fera dans les cours
+et lanceurs
+menu
+animation
+event
+vfx
