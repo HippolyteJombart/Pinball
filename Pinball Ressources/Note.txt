@@ -8,3 +8,8 @@ menu
 animation
 event
 vfx
+
+assets pack possible :
+https://assetstore.unity.com/packages/3d/props/weapons/rockets-missiles-bombs-cartoon-low-poly-pack-73141
+https://assetstore.unity.com/packages/3d/vehicles/low-poly-military-vehicles-package-276939
+https://assetstore.unity.com/packages/3d/vehicles/rts-modern-combat-vehicle-pack-free-281758
