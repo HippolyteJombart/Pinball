@@ -6,6 +6,7 @@ public class Bumper : MonoBehaviour
 {
     [SerializeField] private int strength = 300;
     [SerializeField] private int score = 10;
+    [SerializeField] private Animation anim;
     private void OnCollisionEnter(Collision other)
     { 
         Vector3 a = transform.position;
@@ -16,5 +17,10 @@ public class Bumper : MonoBehaviour
         other.rigidbody.AddForce(direction * strength);
         
         ScoreManager.Instance.AddScore(score);
+        if (anim == null)
+        {
+            return;
+        }
+        anim.Play();
     }
 }
