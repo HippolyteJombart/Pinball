@@ -3,7 +3,7 @@ pour faire de la lumière bizarre
 sur un material emission intensite
 
 ce qu'on fera dans les cours
-et lanceurs
+le lanceurs
 menu
 animation
 event
@@ -13,3 +13,15 @@ assets pack possible :
 https://assetstore.unity.com/packages/3d/props/weapons/rockets-missiles-bombs-cartoon-low-poly-pack-73141
 https://assetstore.unity.com/packages/3d/vehicles/low-poly-military-vehicles-package-276939
 https://assetstore.unity.com/packages/3d/vehicles/rts-modern-combat-vehicle-pack-free-281758
+
+
+Idea :
+Guerre
+Avions passent au dessus du joueur et larguent des bombes il faut les renvoyer dessus pour les détruires mais on peut rajouter l'équivalent du lanceur de bille dans le jeu de base mais c'est des défenses anti aériennes dcp
+faudrait vraiment faire la trainer derrière la bille si je reste sur une seule bille sur plusieurs bombes à voir
+
+Objectif : créer un document complet pour expliquer mes idées et ce que j'aimerais faire au moins dans la version guerre si je me chauffe vrmt go faire l'autre version aussi mais pas sur mais du coup au moins un doc complet pour le faire valider ou pas par mickael lundi
+
+petit tremblement de caméra giga important genre quand une bombe explose
+
+si je fait pas la version avion guerre il faut quand même que  fasse des éléments du décor qui bougent et qu'il faut viser pour les récupérer
